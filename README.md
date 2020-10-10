@@ -1,3 +1,5 @@
+Create, ADD, Delete, Edit nginx configuration files via PHP as simple
+
 ### NginxConf.PHP [![Latest Stable Version](https://poser.pugx.org/aleksey.nemiro/nginxconf.php/v/stable)](https://packagist.org/packages/aleksey.nemiro/nginxconf.php) [![Total Downloads](https://poser.pugx.org/aleksey.nemiro/nginxconf.php/downloads)](https://packagist.org/packages/aleksey.nemiro/nginxconf.php) [![License](https://poser.pugx.org/aleksey.nemiro/nginxconf.php/license)](https://packagist.org/packages/aleksey.nemiro/nginxconf.php)
 
 Classes for working with configuration files of the **Nginx** web server.
